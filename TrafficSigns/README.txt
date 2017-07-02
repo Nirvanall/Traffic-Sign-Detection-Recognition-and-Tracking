@@ -15,7 +15,7 @@ SSIMdetection.py is for testing only the detection and recognition parts. User c
 
 “USspeedlimit” file stores the classifier cascade.xml
 
-“supermodels” file stores the standard five speed limit signs for
+“speedmodels” file stores the standard five speed limit signs for
 recognition.
 
 
